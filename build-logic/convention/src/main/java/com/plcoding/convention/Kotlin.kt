@@ -1,7 +1,6 @@
 package com.plcoding.convention
 
 import com.android.build.api.dsl.CommonExtension
-import com.android.build.gradle.internal.dsl.CommonExtensionImpl
 import org.gradle.api.JavaVersion
 import org.gradle.api.Project
 import org.gradle.kotlin.dsl.dependencies
